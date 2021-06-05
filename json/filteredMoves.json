@@ -1,0 +1,1155 @@
+{
+  "filters": [
+    "pokeName",
+    "moveLevel",
+    "moveIndex",
+    "moveName",
+    "moveDetails",
+    "moveType"
+  ],
+  "M1": [],
+  "M2": [],
+  "M3": [],
+  "M4": [],
+  "M5": [
+    {
+      "pokeName": "Blastoise",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Water Pulse",
+      "cd": "20s",
+      "type": "Water",
+      "level": 80
+    },
+    {
+      "pokeName": "Pidgeot",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Aeroblast",
+      "cd": "50s",
+      "type": "Flying",
+      "level": 84
+    },
+    {
+      "pokeName": "Golem",
+      "pokeLevel": 80,
+      "details": [
+        "Damage",
+        "Aoe"
+      ],
+      "name": "Rock Wrecker",
+      "cd": "50s",
+      "type": "Rock",
+      "level": 85
+    },
+    {
+      "pokeName": "Vaporeon",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Water Pulse",
+      "cd": "40s",
+      "type": "Water",
+      "level": 80
+    },
+    {
+      "pokeName": "Omastar",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Falling Rocks",
+      "cd": "50s",
+      "type": "Rock",
+      "level": 85
+    },
+    {
+      "pokeName": "Mantine",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Air Slash",
+      "cd": "30s",
+      "type": "Flying",
+      "level": 103
+    },
+    {
+      "pokeName": "Skarmory",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Air Slash",
+      "cd": "28s",
+      "type": "Flying",
+      "level": 103
+    },
+    {
+      "pokeName": "Slowking",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Surf",
+      "cd": "50s",
+      "type": "Water",
+      "level": 105
+    },
+    {
+      "pokeName": "Crobat",
+      "pokeLevel": 80,
+      "details": [
+        "Damage",
+        "Aoe"
+      ],
+      "name": "Air Slash",
+      "cd": "30s",
+      "type": "Flying",
+      "level": 83
+    },
+    {
+      "pokeName": "Tropius",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Air Slash",
+      "cd": "35s",
+      "type": "Flying",
+      "level": 103
+    },
+    {
+      "pokeName": "Absol",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Night Slash",
+      "cd": "25s",
+      "type": "Dark",
+      "level": 100
+    },
+    {
+      "pokeName": "Glalie",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Slow"
+      ],
+      "name": "Powder Snow",
+      "cd": "40s",
+      "type": "Ice",
+      "level": 80
+    },
+    {
+      "pokeName": "Swellow",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Air Slash",
+      "cd": "30s",
+      "type": "Flying",
+      "level": 83
+    },
+    {
+      "pokeName": "Abomasnow",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Slow"
+      ],
+      "name": "Powder Snow",
+      "cd": "40s",
+      "type": "Ice",
+      "level": 100
+    },
+    {
+      "pokeName": "Glaceon",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Slow"
+      ],
+      "name": "Powder Snow",
+      "cd": "25s",
+      "type": "Ice",
+      "level": 80
+    },
+    {
+      "pokeName": "Gliscor",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Sky Attack",
+      "cd": "50s",
+      "type": "Flying",
+      "level": 90
+    },
+    {
+      "pokeName": "Mamoswine",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Slow"
+      ],
+      "name": "Powder Snow",
+      "cd": "40s",
+      "type": "Ice",
+      "level": 100
+    },
+    {
+      "pokeName": "Froslass",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Knockback"
+      ],
+      "name": "Avalanche",
+      "cd": "40s",
+      "type": "Ice",
+      "level": 80
+    },
+    {
+      "pokeName": "Rampardos",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Falling Rocks",
+      "cd": "40s",
+      "type": "Rock",
+      "level": 100
+    },
+    {
+      "pokeName": "Archeops",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Air Slash",
+      "cd": "30s",
+      "type": "Flying",
+      "level": 103
+    }
+  ],
+  "M6": [
+    {
+      "pokeName": "Blastoise",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Blind"
+      ],
+      "name": "Muddy Water",
+      "cd": "30s",
+      "type": "Water",
+      "level": 80
+    },
+    {
+      "pokeName": "Pidgeot",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Buff"
+      ],
+      "name": "Hurricane",
+      "cd": "40s",
+      "type": "Flying",
+      "level": 90
+    },
+    {
+      "pokeName": "Scyther",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Air Slash",
+      "cd": "30s",
+      "type": "Flying",
+      "level": 103
+    },
+    {
+      "pokeName": "Golem",
+      "pokeLevel": 80,
+      "details": [
+        "Damage",
+        "Aoe"
+      ],
+      "name": "Falling Rocks",
+      "cd": "50s",
+      "type": "Rock",
+      "level": 80
+    },
+    {
+      "pokeName": "Lapras",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Ice Storm",
+      "cd": "50s",
+      "type": "Ice",
+      "level": 105
+    },
+    {
+      "pokeName": "Vaporeon",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Surf",
+      "cd": "40s",
+      "type": "Water",
+      "level": 85
+    },
+    {
+      "pokeName": "Omastar",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Rock Wrecker",
+      "cd": "50s",
+      "type": "Rock",
+      "level": 85
+    },
+    {
+      "pokeName": "Kabutops",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Night Slash",
+      "cd": "15s",
+      "type": "Dark",
+      "level": 80
+    },
+    {
+      "pokeName": "Mantine",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Air Cutter",
+      "cd": "25s",
+      "type": "Flying",
+      "level": 108
+    },
+    {
+      "pokeName": "Skarmory",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Sky Attack",
+      "cd": "50s",
+      "type": "Flying",
+      "level": 110
+    },
+    {
+      "pokeName": "Kingdra",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Water Pulse",
+      "cd": "28s",
+      "type": "Water",
+      "level": 100
+    },
+    {
+      "pokeName": "Misdreavus",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Night Daze",
+      "cd": "80s",
+      "type": "Dark",
+      "level": 106
+    },
+    {
+      "pokeName": "Crobat",
+      "pokeLevel": 80,
+      "details": [
+        "Damage",
+        "Aoe"
+      ],
+      "name": "Wing Attack",
+      "cd": "25s",
+      "type": "Flying",
+      "level": 80
+    },
+    {
+      "pokeName": "Lanturn",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Water Pulse",
+      "cd": "20s",
+      "type": "Water",
+      "level": 80
+    },
+    {
+      "pokeName": "Xatu",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Buff",
+        "Silence",
+        "Debuff"
+      ],
+      "name": "Fly",
+      "cd": "40s",
+      "type": "Flying",
+      "level": 82
+    },
+    {
+      "pokeName": "Swampert",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Blind"
+      ],
+      "name": "Muddy Water",
+      "cd": "30s",
+      "type": "Water",
+      "level": 80
+    },
+    {
+      "pokeName": "Glalie",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Frost Power",
+      "cd": "40s",
+      "type": "Ice",
+      "level": 80
+    },
+    {
+      "pokeName": "Sharpedo",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Surf",
+      "cd": "50s",
+      "type": "Water",
+      "level": 85
+    },
+    {
+      "pokeName": "Walrein",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Slow"
+      ],
+      "name": "Powder Snow",
+      "cd": "40s",
+      "type": "Ice",
+      "level": 100
+    },
+    {
+      "pokeName": "Swellow",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Aerial Ace",
+      "cd": "60s",
+      "type": "Flying",
+      "level": 80
+    },
+    {
+      "pokeName": "Cacturne",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Slow"
+      ],
+      "name": "Payback",
+      "cd": "50s",
+      "type": "Dark",
+      "level": 100
+    },
+    {
+      "pokeName": "Altaria",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Sky Attack",
+      "cd": "80s",
+      "type": "Flying",
+      "level": 90
+    },
+    {
+      "pokeName": "Crawdaunt",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Night Slash",
+      "cd": "20s",
+      "type": "Dark",
+      "level": 80
+    },
+    {
+      "pokeName": "Abomasnow",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Ice Storm",
+      "cd": "50s",
+      "type": "Ice",
+      "level": 105
+    },
+    {
+      "pokeName": "Weavile",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Knockback"
+      ],
+      "name": "Avalanche",
+      "cd": "40s",
+      "type": "Ice",
+      "level": 100
+    },
+    {
+      "pokeName": "Glaceon",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Ice Storm",
+      "cd": "50s",
+      "type": "Ice",
+      "level": 85
+    },
+    {
+      "pokeName": "Gliscor",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Aerial Ace",
+      "cd": "60s",
+      "type": "Flying",
+      "level": 84
+    },
+    {
+      "pokeName": "Mamoswine",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Knockback"
+      ],
+      "name": "Avalanche",
+      "cd": "28s",
+      "type": "Ice",
+      "level": 100
+    },
+    {
+      "pokeName": "Froslass",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Slow"
+      ],
+      "name": "Blizzard",
+      "cd": "60s",
+      "type": "Ice",
+      "level": 88
+    },
+    {
+      "pokeName": "Bastiodon",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Rock Blast",
+      "cd": "25s",
+      "type": "Rock",
+      "level": 100
+    },
+    {
+      "pokeName": "Archeops",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Nevermiss"
+      ],
+      "name": "Acrobatics",
+      "cd": "30s",
+      "type": "Flying",
+      "level": 100
+    }
+  ],
+  "M7": [
+    {
+      "pokeName": "Charizard",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Air Slash",
+      "cd": "30s",
+      "type": "Flying",
+      "level": 83
+    },
+    {
+      "pokeName": "Pidgeot",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Air Slash",
+      "cd": "40s",
+      "type": "Flying",
+      "level": 83
+    },
+    {
+      "pokeName": "Aerodactyl",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Air Cutter",
+      "cd": "30s",
+      "type": "Flying",
+      "level": 108
+    },
+    {
+      "pokeName": "Mantine",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Buff",
+        "Slow",
+        "Debuff"
+      ],
+      "name": "Bounce",
+      "cd": "40s",
+      "type": "Flying",
+      "level": 102
+    },
+    {
+      "pokeName": "Crobat",
+      "pokeLevel": 80,
+      "details": [
+        "Damage",
+        "Aoe"
+      ],
+      "name": "Air Cutter",
+      "cd": "35s",
+      "type": "Flying",
+      "level": 88
+    },
+    {
+      "pokeName": "Lanturn",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Surf",
+      "cd": "50s",
+      "type": "Water",
+      "level": 85
+    },
+    {
+      "pokeName": "Tyranitar",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Falling Rocks",
+      "cd": "60s",
+      "type": "Rock",
+      "level": 110
+    },
+    {
+      "pokeName": "Azumarill",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Surf",
+      "cd": "50s",
+      "type": "Water",
+      "level": 85
+    },
+    {
+      "pokeName": "Armaldo",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Falling Rocks",
+      "cd": "50s",
+      "type": "Rock",
+      "level": 104
+    },
+    {
+      "pokeName": "Ludicolo",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Hydropump",
+      "cd": "60s",
+      "type": "Water",
+      "level": 102
+    },
+    {
+      "pokeName": "Sharpedo",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Hydropump",
+      "cd": "50s",
+      "type": "Water",
+      "level": 90
+    },
+    {
+      "pokeName": "Swellow",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Sky Attack",
+      "cd": "60s",
+      "type": "Flying",
+      "level": 90
+    },
+    {
+      "pokeName": "Crawdaunt",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Slow"
+      ],
+      "name": "Payback",
+      "cd": "60s",
+      "type": "Dark",
+      "level": 80
+    },
+    {
+      "pokeName": "Weavile",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Night Slash",
+      "cd": "25s",
+      "type": "Dark",
+      "level": 100
+    },
+    {
+      "pokeName": "Glaceon",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Slow"
+      ],
+      "name": "Blizzard",
+      "cd": "50s",
+      "type": "Ice",
+      "level": 86
+    },
+    {
+      "pokeName": "Rampardos",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Rock Wrecker",
+      "cd": "50s",
+      "type": "Rock",
+      "level": 105
+    },
+    {
+      "pokeName": "Bastiodon",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Rock Wrecker",
+      "cd": "50s",
+      "type": "Rock",
+      "level": 105
+    },
+    {
+      "pokeName": "Carracosta",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Falling Rocks",
+      "cd": "50s",
+      "type": "Rock",
+      "level": 105
+    },
+    {
+      "pokeName": "Archeops",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Aerial Ace",
+      "cd": "60s",
+      "type": "Flying",
+      "level": 104
+    }
+  ],
+  "M8": [
+    {
+      "pokeName": "Charizard",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Wing Attack",
+      "cd": "35s",
+      "type": "Flying",
+      "level": 85
+    },
+    {
+      "pokeName": "Starmie",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Hydropump",
+      "cd": "80s",
+      "type": "Water",
+      "level": 85
+    },
+    {
+      "pokeName": "Tentacruel",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Water Pulse",
+      "cd": "25s",
+      "type": "Water",
+      "level": 80
+    },
+    {
+      "pokeName": "Lapras",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Slow"
+      ],
+      "name": "Blizzard",
+      "cd": "50s",
+      "type": "Ice",
+      "level": 106
+    },
+    {
+      "pokeName": "Vaporeon",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Hydropump",
+      "cd": "50s",
+      "type": "Water",
+      "level": 80
+    },
+    {
+      "pokeName": "Aerodactyl",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Wing Attack",
+      "cd": "30s",
+      "type": "Flying",
+      "level": 100
+    },
+    {
+      "pokeName": "Dragonite",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Buff",
+        "Silence",
+        "Debuff"
+      ],
+      "name": "Fly",
+      "cd": "40s",
+      "type": "Flying",
+      "level": 102
+    },
+    {
+      "pokeName": "Sudowoodo",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Rock Wrecker",
+      "cd": "50s",
+      "type": "Rock",
+      "level": 105
+    },
+    {
+      "pokeName": "Feraligatr",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Water Spout",
+      "cd": "50s",
+      "type": "Water",
+      "level": 90
+    },
+    {
+      "pokeName": "Mantine",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Aerial Ace",
+      "cd": "60s",
+      "type": "Flying",
+      "level": 104
+    },
+    {
+      "pokeName": "Umbreon",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Slow"
+      ],
+      "name": "Payback",
+      "cd": "45s",
+      "type": "Dark",
+      "level": 82
+    },
+    {
+      "pokeName": "Crobat",
+      "pokeLevel": 80,
+      "details": [
+        "Damage",
+        "Aoe"
+      ],
+      "name": "Sky Attack",
+      "cd": "50s",
+      "type": "Flying",
+      "level": 85
+    },
+    {
+      "pokeName": "Girafarig",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Buff"
+      ],
+      "name": "Nasty Plot",
+      "cd": "30s",
+      "type": "Dark",
+      "level": 95
+    },
+    {
+      "pokeName": "Glalie",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Slow"
+      ],
+      "name": "Blizzard",
+      "cd": "60s",
+      "type": "Ice",
+      "level": 86
+    },
+    {
+      "pokeName": "Whiscash",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Hydropump",
+      "cd": "60s",
+      "type": "Water",
+      "level": 90
+    },
+    {
+      "pokeName": "Abomasnow",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Slow"
+      ],
+      "name": "Blizzard",
+      "cd": "50s",
+      "type": "Ice",
+      "level": 108
+    },
+    {
+      "pokeName": "Purugly",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Slow"
+      ],
+      "name": "Payback",
+      "cd": "60s",
+      "type": "Dark",
+      "level": 80
+    },
+    {
+      "pokeName": "Porygon-z",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Buff"
+      ],
+      "name": "Nasty Plot",
+      "cd": "40s",
+      "type": "Dark",
+      "level": 105
+    },
+    {
+      "pokeName": "Simisear",
+      "pokeLevel": 80,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Buff"
+      ],
+      "name": "Nasty Plot",
+      "cd": "25s",
+      "type": "Dark",
+      "level": 80
+    },
+    {
+      "pokeName": "Archeops",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage"
+      ],
+      "name": "Sky Attack",
+      "cd": "60s",
+      "type": "Flying",
+      "level": 105
+    },
+    {
+      "pokeName": "Pangoro",
+      "pokeLevel": 100,
+      "details": [
+        "Aoe",
+        "Damage",
+        "Slow"
+      ],
+      "name": "Quash",
+      "cd": "50s",
+      "type": "Dark",
+      "level": 100
+    }
+  ],
+  "M9": [],
+  "M10": [],
+  "M11": [],
+  "M12": [],
+  "M13": [],
+  "M14": [],
+  "M15": []
+}
