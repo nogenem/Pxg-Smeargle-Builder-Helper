@@ -1,16 +1,18 @@
 const ACTIONS = {
-  SCRAP_POKES_FROM_WIKI: { exec: false, saveJson: true },
+  SCRAP_POKES_FROM_WIKI: { saveErrors: true, exec: false, saveJson: true },
 
-  GET_POKES_TO_HUNT: { exec: true },
+  GET_POKES_TO_HUNT: { exec: false },
   GET_EFFECTIVENESS_COUNT_PER_ELEMENT: {
-    exec: true,
+    exec: false,
     saveJson: true,
   },
-  SORT_EFFECTIVENESS_DATA: { exec: true, saveJson: true },
+  SORT_EFFECTIVENESS_DATA: { exec: false, saveJson: true },
 
-  SCRAP_SMEARGLE_BLOCKED_DATA_FROM_WIKI: { exec: true, saveJson: true },
+  SCRAP_SMEARGLE_BLOCKED_DATA_FROM_WIKI: { exec: false, saveJson: true },
 
-  GET_FILTERED_MOVES: { exec: true, saveJson: true },
+  GET_FILTERED_MOVES: { exec: false, saveJson: true },
+
+  GET_POKEMON_DATA_STATS: { exec: true, saveJson: true },
 };
 
 (async function () {
@@ -34,6 +36,7 @@ const ACTIONS = {
     pokemonData = await scrapWiki(
       pokemonData,
       ACTIONS.SCRAP_POKES_FROM_WIKI.saveJson,
+      ACTIONS.SCRAP_POKES_FROM_WIKI.saveErrors,
     );
   }
 
@@ -180,5 +183,17 @@ const ACTIONS = {
     //   M7_len: filteredMoves.M7.length,
     //   M8_len: filteredMoves.M8.length,
     // });
+  }
+
+  let pokemonDataStats = {};
+  if (ACTIONS.GET_POKEMON_DATA_STATS.exec) {
+    const { getPokemonDataStats } = require('./lib/getPokemonDataStats.js');
+
+    pokemonDataStats = getPokemonDataStats(
+      pokemonData,
+      ACTIONS.GET_POKEMON_DATA_STATS.saveJson,
+    );
+
+    console.log(pokemonDataStats);
   }
 })();
