@@ -1,11 +1,15 @@
 const ACTIONS = {
-  SCRAP_POKES_FROM_WIKI: { saveErrors: false, exec: true, saveJson: true },
+  SCRAP_POKES_FROM_WIKI: { saveErrors: true, exec: true, saveJson: true },
 
   GET_POKES_TO_HUNT: { exec: false, saveJson: true },
+
+  FILTER_POKES_TO_HUNT_PER_CLAN: { exec: false, saveJson: true },
+
   GET_EFFECTIVENESS_COUNT_PER_ELEMENT: {
     exec: false,
     saveJson: true,
   },
+
   SORT_EFFECTIVENESS_DATA: { exec: false, saveJson: true },
 
   SCRAP_SMEARGLE_BLOCKED_DATA_FROM_WIKI: { exec: false, saveJson: true },
@@ -52,6 +56,20 @@ const ACTIONS = {
     );
 
     // console.log('pokesToHunt.len', pokesToHunt.length);
+  }
+
+  let pokesToHuntPerClan = {};
+  if (ACTIONS.FILTER_POKES_TO_HUNT_PER_CLAN.exec) {
+    const {
+      getPokesToHuntPerClan,
+    } = require('./lib/8_getPokesToHuntPerClan.js');
+
+    pokesToHuntPerClan = getPokesToHuntPerClan(
+      pokesToHunt,
+      ACTIONS.FILTER_POKES_TO_HUNT_PER_CLAN.saveJson,
+    );
+
+    // console.log(pokesToHuntPerClan);
   }
 
   let effectivenessCountPerElement = {};
