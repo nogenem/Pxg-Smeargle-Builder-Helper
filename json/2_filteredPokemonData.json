@@ -15472,6 +15472,294 @@
           "Steel"
         ]
       }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Weepinbell",
+      "general_info": {
+        "name": "Weepinbell",
+        "level": 30,
+        "elements": [
+          "Grass",
+          "Poison"
+        ],
+        "abilities": [
+          "Cut"
+        ],
+        "boost": [
+          "Leaf Stone",
+          "Venom Stone",
+          10
+        ],
+        "materias": [
+          "Naturia",
+          "Malefic"
+        ],
+        "evolution_stones": [
+          "Leaf Stone (2x)"
+        ],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Bellsprout precisa de Level 1",
+        "Weepinbell precisa de Level 30",
+        "Victreebel precisa de Level 70"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Razor Leaf",
+            "cd": "10s",
+            "type": "Grass",
+            "level": 30,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Vine Whip",
+            "cd": "15s",
+            "type": "Grass",
+            "level": 30,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Magical Leaf",
+            "cd": "25s",
+            "type": "Grass",
+            "level": 30,
+            "details": [
+              "Target",
+              "Damage",
+              "Nevermiss"
+            ]
+          },
+          {
+            "name": "Poison Bomb",
+            "cd": "15s",
+            "type": "Poison",
+            "level": 30,
+            "details": [
+              "Target",
+              "Aoe",
+              "Damage",
+              "Poison"
+            ]
+          },
+          {
+            "name": "Stun Spore",
+            "cd": "45s",
+            "type": "Grass",
+            "level": 30,
+            "details": [
+              "Aoe",
+              "Paralyze"
+            ]
+          },
+          {
+            "name": "Poison Powder",
+            "cd": "10s",
+            "type": "Poison",
+            "level": 30,
+            "details": [
+              "Aoe",
+              "Poison"
+            ]
+          },
+          {
+            "name": "Sleep Powder",
+            "cd": "50s",
+            "type": "Grass",
+            "level": 34,
+            "details": [
+              "Aoe",
+              "Stun"
+            ]
+          },
+          {
+            "name": "Leaf Storm",
+            "cd": "80s",
+            "type": "Grass",
+            "level": 38,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Growth",
+            "cd": "40s",
+            "type": "Normal",
+            "level": 36,
+            "details": [
+              "Self",
+              "Buff"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Efetivo": [
+          "Fire",
+          "Ice",
+          "Flying",
+          "Psychic"
+        ],
+        "Normal": [
+          "Normal",
+          "Poison",
+          "Ground",
+          "Bug",
+          "Rock",
+          "Ghost",
+          "Dragon",
+          "Steel",
+          "Dark",
+          "Crystal"
+        ],
+        "Inefetivo": [
+          "Water",
+          "Electric",
+          "Fighting",
+          "Fairy"
+        ],
+        "Muito Inefetivo": [
+          "Grass"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Alolan_Grimer",
+      "general_info": {
+        "name": "Alolan Grimer",
+        "level": 10,
+        "elements": [
+          "Poison",
+          "Dark"
+        ],
+        "abilities": [
+          "None"
+        ],
+        "boost": [
+          "Venom Stone",
+          "Darkness Stone",
+          10
+        ],
+        "materias": [
+          "Malefic"
+        ],
+        "evolution_stones": [
+          "Damson Shard (2x)"
+        ],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Grimer precisa de Level 10",
+        "Alolan Muk precisa de Level 100"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Mud Shot",
+            "cd": "10s",
+            "type": "Ground",
+            "level": 10,
+            "details": [
+              "Target",
+              "Damage",
+              "Blind"
+            ]
+          },
+          {
+            "name": "Acid",
+            "cd": "8s",
+            "type": "Poison",
+            "level": 10,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Sludge",
+            "cd": "10s",
+            "type": "Poison",
+            "level": 10,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Mud Bomb",
+            "cd": "20s",
+            "type": "Ground",
+            "level": 13,
+            "details": [
+              "Target",
+              "Aoe",
+              "Damage",
+              "Blind"
+            ]
+          },
+          {
+            "name": "Poison Bomb",
+            "cd": "25s",
+            "type": "Poison",
+            "level": 15,
+            "details": [
+              "Target",
+              "Aoe",
+              "Damage",
+              "Poison"
+            ]
+          },
+          {
+            "name": "Harden",
+            "cd": "30s",
+            "type": "Normal",
+            "level": 17,
+            "details": [
+              "Self",
+              "Buff"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Efetivo": [
+          "Ground"
+        ],
+        "Normal": [
+          "Normal",
+          "Fire",
+          "Water",
+          "Electric",
+          "Ice",
+          "Fighting",
+          "Flying",
+          "Bug",
+          "Rock",
+          "Dragon",
+          "Steel",
+          "Crystal",
+          "Fairy"
+        ],
+        "Inefetivo": [
+          "Grass",
+          "Poison",
+          "Ghost",
+          "Dark"
+        ],
+        "Nulo": [
+          "Psychic"
+        ]
+      }
     }
   ],
   "400-600": [
@@ -21058,6 +21346,3344 @@
         "Nulo": [
           "Normal",
           "Fighting"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Magnezone",
+      "general_info": {
+        "name": "Magnezone",
+        "level": 100,
+        "elements": [
+          "Steel",
+          "Electric"
+        ],
+        "abilities": [
+          "Fly",
+          "Light",
+          "Headbutt"
+        ],
+        "boost": [
+          "Metal Stone",
+          30
+        ],
+        "materias": [],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Magnemite precisa de Level 10",
+        "Magneton precisa de Level 80",
+        "Magnezone precisa de Level 100"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Super Sonic",
+            "cd": "25s",
+            "type": "Normal",
+            "level": 100,
+            "details": [
+              "Target",
+              "Confusion"
+            ]
+          },
+          {
+            "name": "Scrap Throw",
+            "cd": "10s",
+            "type": "Steel",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Spark",
+            "cd": "15s",
+            "type": "Electric",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Thunder Wave",
+            "cd": "30s",
+            "type": "Electric",
+            "level": 100,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Paralyze"
+            ]
+          },
+          {
+            "name": "Magnet Bomb",
+            "cd": "32s",
+            "type": "Steel",
+            "level": 115,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Tri-attack",
+            "cd": "30s",
+            "type": "Normal",
+            "level": 115,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Flash Cannon",
+            "cd": "40s",
+            "type": "Steel",
+            "level": 108,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Magnet Field",
+            "cd": "",
+            "type": "Electric",
+            "level": "",
+            "details": [
+              "Passive",
+              "Aoe",
+              "Damage",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Magnet Rise",
+            "cd": "",
+            "type": "Electric",
+            "level": "",
+            "details": [
+              "Passive",
+              "Buff"
+            ]
+          },
+          {
+            "name": "Tri-vision",
+            "cd": "",
+            "type": "Neutral",
+            "level": "",
+            "details": [
+              "Passive",
+              "Buff"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Muito Efetivo": [
+          "Ground"
+        ],
+        "Efetivo": [
+          "Fire",
+          "Fighting"
+        ],
+        "Normal": [
+          "Water",
+          "Ghost",
+          "Dark",
+          "Crystal"
+        ],
+        "Inefetivo": [
+          "Normal",
+          "Grass",
+          "Electric",
+          "Ice",
+          "Psychic",
+          "Bug",
+          "Rock",
+          "Dragon",
+          "Fairy"
+        ],
+        "Muito Inefetivo": [
+          "Flying",
+          "Steel"
+        ],
+        "Nulo": [
+          "Poison"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Machamp",
+      "general_info": {
+        "name": "Machamp",
+        "level": 80,
+        "elements": [
+          "Fighting"
+        ],
+        "abilities": [
+          "Rock Smash",
+          "Headbutt"
+        ],
+        "boost": [
+          "Punch Stone",
+          3
+        ],
+        "materias": [
+          "Gardestrike Enhanced"
+        ],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Machop precisa de Level 20",
+        "Machoke precisa de Level 40",
+        "Machamp precisa de Level 80"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Triple Punch",
+            "cd": "10s",
+            "type": "Fighting",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Karate Chop",
+            "cd": "15s",
+            "type": "Fighting",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Revenge",
+            "cd": "45s",
+            "type": "Fighting",
+            "level": 92,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Focus Blast",
+            "cd": "40s",
+            "type": "Fighting",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Arm Thrust",
+            "cd": "30s",
+            "type": "Fighting",
+            "level": 86,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Vital Throw",
+            "cd": "20s",
+            "type": "Fighting",
+            "level": 88,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Dynamicpunch",
+            "cd": "35s",
+            "type": "Fighting",
+            "level": 90,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Confusion"
+            ]
+          },
+          {
+            "name": "Agility",
+            "cd": "30s",
+            "type": "Flying",
+            "level": 80,
+            "details": [
+              "Self",
+              "Buff"
+            ]
+          },
+          {
+            "name": "Foresight",
+            "cd": "",
+            "type": "Fighting",
+            "level": "",
+            "details": [
+              "Passive",
+              "Buff"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Muito Efetivo": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ],
+        "Normal": [
+          "Normal",
+          "Fire",
+          "Water",
+          "Grass",
+          "Electric",
+          "Ice",
+          "Fighting",
+          "Poison",
+          "Ground",
+          "Ghost",
+          "Dragon",
+          "Steel",
+          "Crystal"
+        ],
+        "Muito Inefetivo": [
+          "Bug",
+          "Rock",
+          "Dark"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Weavile",
+      "general_info": {
+        "name": "Weavile",
+        "level": 100,
+        "elements": [
+          "Dark",
+          "Ice"
+        ],
+        "abilities": [
+          "Dig",
+          "Rock Smash",
+          "Cut",
+          "Headbutt"
+        ],
+        "boost": [
+          "Ice Stone",
+          2
+        ],
+        "materias": [],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Sneasel precisa de Level 50",
+        "Weavile precisa de Level 100"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Ice Punch",
+            "cd": "10s",
+            "type": "Ice",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Pursuit",
+            "cd": "20s",
+            "type": "Dark",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage",
+              "Buff"
+            ]
+          },
+          {
+            "name": "Icicle Crash",
+            "cd": "50s",
+            "type": "Ice",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Ice Shards",
+            "cd": "10s",
+            "type": "Ice",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Cursed Hollow",
+            "cd": "45s",
+            "type": "Ghost",
+            "level": 100,
+            "details": [
+              "Target",
+              "Paralyze",
+              "Buff",
+              "Neverboost"
+            ]
+          },
+          {
+            "name": "Avalanche",
+            "cd": "40s",
+            "type": "Ice",
+            "level": 100,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Knockback"
+            ]
+          },
+          {
+            "name": "Night Slash",
+            "cd": "25s",
+            "type": "Dark",
+            "level": 100,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Hunter Mark",
+            "cd": "60s",
+            "type": "Neutral",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Blizzard",
+            "cd": "60s",
+            "type": "Ice",
+            "level": 108,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Swords Dance",
+            "cd": "60s",
+            "type": "Normal",
+            "level": 108,
+            "details": [
+              "Self",
+              "Buff"
+            ]
+          },
+          {
+            "name": "Frozen Armor",
+            "cd": "30s",
+            "type": "Ice",
+            "level": 100,
+            "details": [
+              "Self",
+              "Buff",
+              "Nevermiss"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Muito Efetivo": [
+          "Fighting"
+        ],
+        "Efetivo": [
+          "Fire",
+          "Rock",
+          "Bug",
+          "Steel",
+          "Fairy"
+        ],
+        "Normal": [
+          "Normal",
+          "Water",
+          "Grass",
+          "Electric",
+          "Poison",
+          "Ground",
+          "Flying",
+          "Dragon",
+          "Crystal"
+        ],
+        "Inefetivo": [
+          "Ice",
+          "Ghost",
+          "Dark"
+        ],
+        "Nulo": [
+          "Psychic"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Altaria",
+      "general_info": {
+        "name": "Altaria",
+        "level": 80,
+        "elements": [
+          "Dragon",
+          "Flying"
+        ],
+        "abilities": [
+          "Fly"
+        ],
+        "boost": [
+          "Feather Stone",
+          3
+        ],
+        "materias": [],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Swablu precisa de Level 30",
+        "Altaria precisa de Level 80"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Attract",
+            "cd": "40s",
+            "type": "Normal",
+            "level": 80,
+            "details": [
+              "Self",
+              "Buff",
+              "Nevermiss"
+            ]
+          },
+          {
+            "name": "Pluck",
+            "cd": "10s",
+            "type": "Flying",
+            "level": 85,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Sing",
+            "cd": "48s",
+            "type": "Normal",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Stun"
+            ]
+          },
+          {
+            "name": "Dragon Breath",
+            "cd": "30s",
+            "type": "Dragon",
+            "level": 82,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Paralyze"
+            ]
+          },
+          {
+            "name": "Dragon Mist",
+            "cd": "40s",
+            "type": "Dragon",
+            "level": 85,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Slow",
+              "Buff",
+              "Nevermiss"
+            ]
+          },
+          {
+            "name": "Sky Attack",
+            "cd": "80s",
+            "type": "Flying",
+            "level": 90,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Roost",
+            "cd": "80s",
+            "type": "Neutral",
+            "level": 85,
+            "details": [
+              "Self",
+              "Healing"
+            ]
+          },
+          {
+            "name": "Tailwind",
+            "cd": "30s",
+            "type": "Flying",
+            "level": 80,
+            "details": [
+              "Self",
+              "Buff"
+            ]
+          },
+          {
+            "name": "Mirror Move",
+            "cd": "40s",
+            "type": "Normal",
+            "level": 86,
+            "details": [
+              "Self",
+              "Buff"
+            ]
+          },
+          {
+            "name": "Cloud Nine",
+            "cd": "",
+            "type": "Normal",
+            "level": "",
+            "details": [
+              "Passive",
+              "Buff"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Muito Efetivo": [
+          "Ice"
+        ],
+        "Efetivo": [
+          "Rock",
+          "Dragon",
+          "Fairy"
+        ],
+        "Normal": [
+          "Normal",
+          "Electric",
+          "Poison",
+          "Flying",
+          "Psychic",
+          "Ghost",
+          "Steel",
+          "Dark",
+          "Crystal"
+        ],
+        "Inefetivo": [
+          "Fire",
+          "Water",
+          "Fighting",
+          "Bug"
+        ],
+        "Muito Inefetivo": [
+          "Grass"
+        ],
+        "Nulo": [
+          "Ground"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Garchomp",
+      "general_info": {
+        "name": "Garchomp",
+        "level": 100,
+        "elements": [
+          "Dragon",
+          "Ground"
+        ],
+        "abilities": [
+          "Dig",
+          "Rock Smash",
+          "Cut",
+          "Fly",
+          "Headbutt"
+        ],
+        "boost": [
+          "Crystal Stone",
+          30
+        ],
+        "materias": [],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Gible precisa de Level 20",
+        "Gabite precisa de Level 60",
+        "Garchomp precisa de Level 100"
+      ],
+      "moves": {
+        "PVP": [
+          {
+            "name": "Dragon Claw",
+            "cd": "15s",
+            "type": "Dragon",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Dual Chop",
+            "cd": "25s",
+            "type": "Dragon",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage",
+              "Slow",
+              "Nevermiss"
+            ]
+          },
+          {
+            "name": "Dragon Tail",
+            "cd": "22s",
+            "type": "Dragon",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Dragon Breath",
+            "cd": "30s",
+            "type": "Dragon",
+            "level": 102,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Paralyze"
+            ]
+          },
+          {
+            "name": "Dragon Pulse",
+            "cd": "40s",
+            "type": "Dragon",
+            "level": 105,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Dragon Rush",
+            "cd": "35s",
+            "type": "Dragon",
+            "level": 105,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Buff",
+              "Debuff"
+            ]
+          },
+          {
+            "name": "Draco Meteor",
+            "cd": "80s",
+            "type": "Dragon",
+            "level": 115,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Outrage",
+            "cd": "60s",
+            "type": "Dragon",
+            "level": 115,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Buff",
+              "Nevermiss",
+              "Debuff"
+            ]
+          },
+          {
+            "name": "Scary Face",
+            "cd": "40s",
+            "type": "Normal",
+            "level": 102,
+            "details": [
+              "Aoe",
+              "Paralyze"
+            ]
+          },
+          {
+            "name": "Rough Skin",
+            "cd": "",
+            "type": "Normal",
+            "level": "",
+            "details": [
+              "Passive",
+              "Damage"
+            ]
+          }
+        ],
+        "PVE": [
+          {
+            "name": "Dragon Claw",
+            "cd": "15s",
+            "type": "Dragon",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Dual Chop",
+            "cd": "25s",
+            "type": "Dragon",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage",
+              "Slow",
+              "Nevermiss"
+            ]
+          },
+          {
+            "name": "Dragon Tail",
+            "cd": "22s",
+            "type": "Dragon",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Dragon Breath",
+            "cd": "30s",
+            "type": "Dragon",
+            "level": 102,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Paralyze"
+            ]
+          },
+          {
+            "name": "Dragon Pulse",
+            "cd": "40s",
+            "type": "Dragon",
+            "level": 105,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Dragon Rush",
+            "cd": "40s",
+            "type": "Dragon",
+            "level": 105,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Buff",
+              "Debuff"
+            ]
+          },
+          {
+            "name": "Draco Meteor",
+            "cd": "50s",
+            "type": "Dragon",
+            "level": 115,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Outrage",
+            "cd": "50s",
+            "type": "Dragon",
+            "level": 115,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Buff",
+              "Nevermiss",
+              "Debuff"
+            ]
+          },
+          {
+            "name": "Scary Face",
+            "cd": "40s",
+            "type": "Normal",
+            "level": 102,
+            "details": [
+              "Aoe",
+              "Paralyze"
+            ]
+          },
+          {
+            "name": "Rough Skin",
+            "cd": "",
+            "type": "Normal",
+            "level": "",
+            "details": [
+              "Passive",
+              "Damage"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Muito Efetivo": [
+          "Ice"
+        ],
+        "Efetivo": [
+          "Dragon",
+          "Fairy"
+        ],
+        "Normal": [
+          "Normal",
+          "Water",
+          "Grass",
+          "Fighting",
+          "Ground",
+          "Flying",
+          "Psychic",
+          "Bug",
+          "Ghost",
+          "Steel",
+          "Dark",
+          "Crystal"
+        ],
+        "Inefetivo": [
+          "Fire",
+          "Poison",
+          "Rock"
+        ],
+        "Nulo": [
+          "Electric"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Shiftry",
+      "general_info": {
+        "name": "Shiftry",
+        "level": 80,
+        "elements": [
+          "Grass",
+          "Dark"
+        ],
+        "abilities": [
+          "Cut",
+          "Headbutt"
+        ],
+        "boost": [
+          "Darkness Stone",
+          3
+        ],
+        "materias": [],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Seedot precisa de Level 10",
+        "Nuzleaf precisa de Level 30",
+        "Shiftry precisa de Level 80"
+      ],
+      "moves": {
+        "PVP": [
+          {
+            "name": "Shadow Ball",
+            "cd": "10s",
+            "type": "Ghost",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Razor Leaf",
+            "cd": "10s",
+            "type": "Grass",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Dark Pulse",
+            "cd": "10s",
+            "type": "Dark",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Foul Play",
+            "cd": "10s",
+            "type": "Dark",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Sucker Punch",
+            "cd": "20s",
+            "type": "Dark",
+            "level": 83,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Assurance",
+            "cd": "30s",
+            "type": "Dark",
+            "level": 82,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Grassy Terrain",
+            "cd": "35s",
+            "type": "Grass",
+            "level": 84,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Stun"
+            ]
+          },
+          {
+            "name": "Leaf Tornado",
+            "cd": "70s",
+            "type": "Grass",
+            "level": 85,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Sunny Day",
+            "cd": "40s",
+            "type": "Fire",
+            "level": 92,
+            "details": [
+              "Aoe",
+              "Buff",
+              "Silence",
+              "Nevermiss"
+            ]
+          },
+          {
+            "name": "Chlorophyll",
+            "cd": "",
+            "type": "Grass",
+            "level": "",
+            "details": [
+              "Passive",
+              "Buff"
+            ]
+          },
+          {
+            "name": "Early Bird",
+            "cd": "",
+            "type": "Ghost",
+            "level": "",
+            "details": [
+              "Passive",
+              "Buff"
+            ]
+          }
+        ],
+        "PVE": [
+          {
+            "name": "Shadow Ball",
+            "cd": "10s",
+            "type": "Ghost",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Razor Leaf",
+            "cd": "10s",
+            "type": "Grass",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Dark Pulse",
+            "cd": "10s",
+            "type": "Dark",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Foul Play",
+            "cd": "10s",
+            "type": "Dark",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Sucker Punch",
+            "cd": "20s",
+            "type": "Dark",
+            "level": 83,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Assurance",
+            "cd": "30s",
+            "type": "Dark",
+            "level": 82,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Grassy Terrain",
+            "cd": "35s",
+            "type": "Grass",
+            "level": 84,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Stun"
+            ]
+          },
+          {
+            "name": "Leaf Tornado",
+            "cd": "60s",
+            "type": "Grass",
+            "level": 85,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Sunny Day",
+            "cd": "40s",
+            "type": "Fire",
+            "level": 92,
+            "details": [
+              "Aoe",
+              "Buff",
+              "Silence",
+              "Nevermiss"
+            ]
+          },
+          {
+            "name": "Chlorophyll",
+            "cd": "",
+            "type": "Grass",
+            "level": "",
+            "details": [
+              "Passive",
+              "Buff"
+            ]
+          },
+          {
+            "name": "Early Bird",
+            "cd": "",
+            "type": "Ghost",
+            "level": "",
+            "details": [
+              "Passive",
+              "Buff"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Muito Efetivo": [
+          "Bug"
+        ],
+        "Efetivo": [
+          "Fire",
+          "Ice",
+          "Fighting",
+          "Poison",
+          "Flying",
+          "Fairy"
+        ],
+        "Normal": [
+          "Normal",
+          "Rock",
+          "Dragon",
+          "Steel",
+          "Crystal"
+        ],
+        "Inefetivo": [
+          "Water",
+          "Grass",
+          "Electric",
+          "Ground",
+          "Ghost",
+          "Dark"
+        ],
+        "Nulo": [
+          "Psychic"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Porygon",
+      "general_info": {
+        "name": "Porygon",
+        "level": 40,
+        "elements": [
+          "Normal"
+        ],
+        "abilities": [
+          "Teleport",
+          "Light",
+          "Fly",
+          "Blink"
+        ],
+        "boost": [
+          "Heart Stone",
+          7
+        ],
+        "materias": [
+          "Gardestrike"
+        ],
+        "evolution_stones": [
+          "Ancient Stone",
+          "Crystal Stone"
+        ],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Porygon precisa de Level 40",
+        "Porygon2 preicsa de Level 80"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Super Sonic",
+            "cd": "20s",
+            "type": "Normal",
+            "level": 40,
+            "details": [
+              "Target",
+              "Confusion"
+            ]
+          },
+          {
+            "name": "Psybeam",
+            "cd": "20s",
+            "type": "Psychic",
+            "level": 40,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Psycho Cut",
+            "cd": "10s",
+            "type": "Psychic",
+            "level": 48,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Psychic",
+            "cd": "35s",
+            "type": "Psychic",
+            "level": 40,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Zap Cannon",
+            "cd": "20s",
+            "type": "Electric",
+            "level": 44,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Focus Energy",
+            "cd": "40s",
+            "type": "Normal",
+            "level": 48,
+            "details": [
+              "Self",
+              "Buff"
+            ]
+          },
+          {
+            "name": "Magic Coat",
+            "cd": "60s",
+            "type": "Psychic",
+            "level": 46,
+            "details": [
+              "Self",
+              "Buff"
+            ]
+          },
+          {
+            "name": "Restore",
+            "cd": "40s",
+            "type": "Psychic",
+            "level": 40,
+            "details": [
+              "Self",
+              "Healing"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Muito Efetivo": [
+          "Fighting"
+        ],
+        "Normal": [
+          "Normal",
+          "Fire",
+          "Water",
+          "Grass",
+          "Electric",
+          "Ice",
+          "Poison",
+          "Ground",
+          "Flying",
+          "Psychic",
+          "Bug",
+          "Rock",
+          "Dragon",
+          "Steel",
+          "Dark",
+          "Crystal",
+          "Fairy"
+        ],
+        "Nulo": [
+          "Ghost"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Eelektross",
+      "general_info": {
+        "name": "Eelektross",
+        "level": 80,
+        "elements": [
+          "Electric"
+        ],
+        "abilities": [
+          "Light",
+          "Headbutt"
+        ],
+        "boost": [
+          "Thunder Stone",
+          3
+        ],
+        "materias": [],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Tynamo precisa de Level 1",
+        "Eelektrik precisa de Level 40",
+        "Eelektross precisa de Level 80"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Bind",
+            "cd": "30s",
+            "type": "Normal",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage",
+              "Stun",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Toxic",
+            "cd": "30s",
+            "type": "Poison",
+            "level": 85,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Poison"
+            ]
+          },
+          {
+            "name": "Iron Tail",
+            "cd": "16s",
+            "type": "Steel",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Acid",
+            "cd": "10s",
+            "type": "Poison",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Spark",
+            "cd": "14s",
+            "type": "Electric",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Poison Bomb",
+            "cd": "20s",
+            "type": "Poison",
+            "level": 80,
+            "details": [
+              "Target",
+              "Aoe",
+              "Damage",
+              "Poison"
+            ]
+          },
+          {
+            "name": "Gastro Acid",
+            "cd": "30s",
+            "type": "Poison",
+            "level": 82,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Poison"
+            ]
+          },
+          {
+            "name": "Signal Beam",
+            "cd": "60s",
+            "type": "Bug",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Discharge",
+            "cd": "70s",
+            "type": "Electric",
+            "level": 85,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Protect",
+            "cd": "40s",
+            "type": "Normal",
+            "level": 80,
+            "details": [
+              "Self",
+              "Buff"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Muito Efetivo": [
+          "Ground"
+        ],
+        "Normal": [
+          "Normal",
+          "Fire",
+          "Water",
+          "Grass",
+          "Ice",
+          "Fighting",
+          "Poison",
+          "Psychic",
+          "Bug",
+          "Rock",
+          "Ghost",
+          "Dragon",
+          "Dark",
+          "Crystal",
+          "Fairy"
+        ],
+        "Muito Inefetivo": [
+          "Electric",
+          "Flying",
+          "Steel"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Tyranitar",
+      "general_info": {
+        "name": "Tyranitar",
+        "level": 100,
+        "elements": [
+          "Rock",
+          "Dark"
+        ],
+        "abilities": [
+          "Dig",
+          "Rock Smash",
+          "Cut",
+          "Headbutt"
+        ],
+        "boost": [
+          "Ancient Stone",
+          30
+        ],
+        "materias": [],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Larvitar precisa de Level 30",
+        "Pupitar precisa de Level 60",
+        "Tyranitar precisa de Level 100"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Bite",
+            "cd": "15s",
+            "type": "Dark",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Shadowave",
+            "cd": "20s",
+            "type": "Dark",
+            "level": 100,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Rock Tomb",
+            "cd": "15s",
+            "type": "Rock",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Rock Slide",
+            "cd": "15s",
+            "type": "Rock",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Stone Edge",
+            "cd": "20s",
+            "type": "Rock",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Ancient Power",
+            "cd": "30s",
+            "type": "Rock",
+            "level": 115,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Falling Rocks",
+            "cd": "60s",
+            "type": "Rock",
+            "level": 110,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Assurance",
+            "cd": "60s",
+            "type": "Dark",
+            "level": 108,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Sandstorm",
+            "cd": "45s",
+            "type": "Rock",
+            "level": 100,
+            "details": [
+              "Aoe",
+              "Buff",
+              "Blind",
+              "Slow"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Muito Efetivo": [
+          "Fighting"
+        ],
+        "Efetivo": [
+          "Water",
+          "Grass",
+          "Ground",
+          "Bug",
+          "Steel",
+          "Fairy"
+        ],
+        "Normal": [
+          "Electric",
+          "Ice",
+          "Rock",
+          "Dragon",
+          "Crystal"
+        ],
+        "Inefetivo": [
+          "Normal",
+          "Fire",
+          "Poison",
+          "Flying",
+          "Ghost",
+          "Dark"
+        ],
+        "Muito Inefetivo": [
+          "Psychic"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Sudowoodo",
+      "general_info": {
+        "name": "Sudowoodo",
+        "level": 100,
+        "elements": [
+          "Rock"
+        ],
+        "abilities": [
+          "Dig",
+          "Rock Smash",
+          "Cut",
+          "Headbutt"
+        ],
+        "boost": [
+          "Rock Stone",
+          3
+        ],
+        "materias": [],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Sudowoodo precisa de Level 100"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Rock Throw",
+            "cd": "10s",
+            "type": "Rock",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Rock Slide",
+            "cd": "15s",
+            "type": "Rock",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Rock Tomb",
+            "cd": "15s",
+            "type": "Rock",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Stone Edge",
+            "cd": "20s",
+            "type": "Rock",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Low Kick",
+            "cd": "25s",
+            "type": "Fighting",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Sucker Punch",
+            "cd": "25s",
+            "type": "Dark",
+            "level": 102,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Mimic",
+            "cd": "25s",
+            "type": "Normal",
+            "level": 105,
+            "details": [
+              "Self",
+              "Buff",
+              "Nevermiss"
+            ]
+          },
+          {
+            "name": "Rock Wrecker",
+            "cd": "50s",
+            "type": "Rock",
+            "level": 105,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Hammer Arm",
+            "cd": "30s",
+            "type": "Fighting",
+            "level": 100,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Stun"
+            ]
+          },
+          {
+            "name": "Sturdy",
+            "cd": "",
+            "type": "Steel",
+            "level": "",
+            "details": [
+              "Passive",
+              "Buff"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Muito Efetivo": [
+          "Water",
+          "Grass",
+          "Fighting",
+          "Ground",
+          "Steel"
+        ],
+        "Normal": [
+          "Electric",
+          "Ice",
+          "Psychic",
+          "Bug",
+          "Rock",
+          "Ghost",
+          "Dragon",
+          "Dark",
+          "Crystal",
+          "Fairy"
+        ],
+        "Muito Inefetivo": [
+          "Normal",
+          "Fire",
+          "Poison",
+          "Flying"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Alolan_Muk",
+      "general_info": {
+        "name": "Alolan Muk",
+        "level": 100,
+        "elements": [
+          "Poison",
+          "Dark"
+        ],
+        "abilities": [
+          "None"
+        ],
+        "boost": [
+          "Darkness Stone",
+          "Venom Stone",
+          2
+        ],
+        "materias": [
+          "Malefic Superior"
+        ],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Alolan Grimer precisa de Level 10",
+        "Alolan Muk precisa de Level 100"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Poison Jab",
+            "cd": "10s",
+            "type": "Poison",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage",
+              "Poison"
+            ]
+          },
+          {
+            "name": "Acid",
+            "cd": "10s",
+            "type": "Poison",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Sludge",
+            "cd": "25s",
+            "type": "Poison",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Toxic",
+            "cd": "40s",
+            "type": "Poison",
+            "level": 100,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Poison"
+            ]
+          },
+          {
+            "name": "Mortal Gas",
+            "cd": "50s",
+            "type": "Poison",
+            "level": 106,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Poison"
+            ]
+          },
+          {
+            "name": "Acid Rain",
+            "cd": "50s",
+            "type": "Poison",
+            "level": 105,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Poison"
+            ]
+          },
+          {
+            "name": "Swamp Mist",
+            "cd": "40s",
+            "type": "Poison",
+            "level": 100,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Harden",
+            "cd": "40s",
+            "type": "Normal",
+            "level": 110,
+            "details": [
+              "Self",
+              "Buff"
+            ]
+          },
+          {
+            "name": "Poison Touch",
+            "cd": "40s",
+            "type": "Poison",
+            "level": 100,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Stun"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Efetivo": [
+          "Ground"
+        ],
+        "Normal": [
+          "Normal",
+          "Fire",
+          "Water",
+          "Electric",
+          "Ice",
+          "Fighting",
+          "Flying",
+          "Bug",
+          "Rock",
+          "Dragon",
+          "Steel",
+          "Fairy",
+          "Crystal"
+        ],
+        "Inefetivo": [
+          "Grass",
+          "Poison",
+          "Ghost",
+          "Dark"
+        ],
+        "Nulo": [
+          "Psychic"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Alolan_Dugtrio",
+      "general_info": {
+        "name": "Alolan Dugtrio",
+        "level": 80,
+        "elements": [
+          "Ground",
+          "Steel"
+        ],
+        "abilities": [
+          "Dig",
+          "Rock Smash",
+          "Headbutt"
+        ],
+        "boost": [
+          "Earth Stone",
+          3
+        ],
+        "materias": [
+          "Orebound Enhanced",
+          "Ironhard Enhanced"
+        ],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Alolan Diglett precisa de Level 10",
+        "Dugtrio precisa de Level 80"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Iron Head",
+            "cd": "15s",
+            "type": "Steel",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Mud Slap",
+            "cd": "25s",
+            "type": "Ground",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage",
+              "Blind",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Mud Slugde",
+            "cd": "12s",
+            "type": "Ground",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Stomping Tantrum",
+            "cd": "30s",
+            "type": "Ground",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Earth Power",
+            "cd": "40s",
+            "type": "Ground",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Dig",
+            "cd": "40s",
+            "type": "Ground",
+            "level": 82,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Buff",
+              "Slow",
+              "Debuff"
+            ]
+          },
+          {
+            "name": "Earthquake",
+            "cd": "50s",
+            "type": "Ground",
+            "level": 87,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Rage",
+            "cd": "40s",
+            "type": "Dragon",
+            "level": 85,
+            "details": [
+              "Self",
+              "Buff"
+            ]
+          },
+          {
+            "name": "Arena Trap",
+            "cd": "",
+            "type": "Ground",
+            "level": 80,
+            "details": [
+              "Passive",
+              "Buff"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Efetivo": [
+          "Fire",
+          "Water",
+          "Fighting",
+          "Ground"
+        ],
+        "Normal": [
+          "Grass",
+          "Ice",
+          "Ghost",
+          "Dark",
+          "Crystal"
+        ],
+        "Inefetivo": [
+          "Normal",
+          "Flying",
+          "Psychic",
+          "Bug",
+          "Dragon",
+          "Steel",
+          "Fairy"
+        ],
+        "Muito Inefetivo": [
+          "Rock"
+        ],
+        "Nulo": [
+          "Electric",
+          "Poison"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Steelix",
+      "general_info": {
+        "name": "Steelix",
+        "level": 100,
+        "elements": [
+          "Steel",
+          "Ground"
+        ],
+        "abilities": [
+          "Dig",
+          "Rock Smash",
+          "Ride",
+          "Headbutt"
+        ],
+        "boost": [
+          "Metal Stone",
+          30
+        ],
+        "materias": [],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Onix precisa de Level 50",
+        "Steelix precisa de Level 100"
+      ],
+      "moves": {
+        "PVP": [
+          {
+            "name": "Iron Tail",
+            "cd": "10s",
+            "type": "Steel",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Iron Head",
+            "cd": "15s",
+            "type": "Steel",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Sand Tomb",
+            "cd": "45s",
+            "type": "Ground",
+            "level": 102,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Stun"
+            ]
+          },
+          {
+            "name": "Rock Tomb",
+            "cd": "20s",
+            "type": "Rock",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Stone Edge",
+            "cd": "15s",
+            "type": "Rock",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Earth Power",
+            "cd": "40s",
+            "type": "Ground",
+            "level": 105,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Sand Eruption",
+            "cd": "60s",
+            "type": "Ground",
+            "level": 100,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Fissure",
+            "cd": "60s",
+            "type": "Ground",
+            "level": 110,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Harden",
+            "cd": "40s",
+            "type": "Normal",
+            "level": 100,
+            "details": [
+              "Self",
+              "Buff"
+            ]
+          }
+        ],
+        "PVE": [
+          {
+            "name": "Iron Tail",
+            "cd": "10s",
+            "type": "Steel",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Iron Head",
+            "cd": "15s",
+            "type": "Steel",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Sand Tomb",
+            "cd": "40s",
+            "type": "Ground",
+            "level": 102,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Stun"
+            ]
+          },
+          {
+            "name": "Rock Tomb",
+            "cd": "20s",
+            "type": "Rock",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Stone Edge",
+            "cd": "15s",
+            "type": "Rock",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Earth Power",
+            "cd": "40s",
+            "type": "Ground",
+            "level": 105,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Sand Eruption",
+            "cd": "50s",
+            "type": "Ground",
+            "level": 100,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Fissure",
+            "cd": "50s",
+            "type": "Ground",
+            "level": 110,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Harden",
+            "cd": "40s",
+            "type": "Normal",
+            "level": 100,
+            "details": [
+              "Self",
+              "Buff"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Efetivo": [
+          "Fire",
+          "Water",
+          "Fighting",
+          "Ground"
+        ],
+        "Normal": [
+          "Grass",
+          "Ice",
+          "Ghost",
+          "Dark",
+          "Crystal"
+        ],
+        "Inefetivo": [
+          "Normal",
+          "Flying",
+          "Psychic",
+          "Bug",
+          "Dragon",
+          "Steel",
+          "Fairy"
+        ],
+        "Muito Inefetivo": [
+          "Rock"
+        ],
+        "Nulo": [
+          "Electric",
+          "Poison"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Torkoal",
+      "general_info": {
+        "name": "Torkoal",
+        "level": 100,
+        "elements": [
+          "Fire"
+        ],
+        "abilities": [
+          "Dig",
+          "Rock Smash",
+          "Headbutt"
+        ],
+        "boost": [
+          "Ancient Stone",
+          30
+        ],
+        "materias": [],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Torkoal precisa de Level 100"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Ember",
+            "cd": "10s",
+            "type": "Fire",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Flamethrower",
+            "cd": "20s",
+            "type": "Fire",
+            "level": 100,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Burn"
+            ]
+          },
+          {
+            "name": "Withdraw",
+            "cd": "40s",
+            "type": "Water",
+            "level": 104,
+            "details": [
+              "Self",
+              "Buff",
+              "Debuff",
+              "Nevermiss"
+            ]
+          },
+          {
+            "name": "Smokescreen",
+            "cd": "30s",
+            "type": "Normal",
+            "level": 100,
+            "details": [
+              "Aoe",
+              "Blind"
+            ]
+          },
+          {
+            "name": "White Smoke",
+            "cd": "45s",
+            "type": "Normal",
+            "level": 100,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Slow",
+              "Burn"
+            ]
+          },
+          {
+            "name": "Fireball",
+            "cd": "20s",
+            "type": "Fire",
+            "level": 100,
+            "details": [
+              "Target",
+              "Aoe",
+              "Damage",
+              "Burn"
+            ]
+          },
+          {
+            "name": "Inferno",
+            "cd": "70s",
+            "type": "Fire",
+            "level": 110,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Burn"
+            ]
+          },
+          {
+            "name": "Heat Wave",
+            "cd": "40s",
+            "type": "Fire",
+            "level": 104,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Silence"
+            ]
+          },
+          {
+            "name": "Heatzone",
+            "cd": "80s",
+            "type": "Fire",
+            "level": 110,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Nevermiss"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Muito Efetivo": [
+          "Water",
+          "Ground",
+          "Rock"
+        ],
+        "Normal": [
+          "Normal",
+          "Electric",
+          "Fighting",
+          "Poison",
+          "Flying",
+          "Psychic",
+          "Ghost",
+          "Dragon",
+          "Dark",
+          "Crystal"
+        ],
+        "Muito Inefetivo": [
+          "Fire",
+          "Grass",
+          "Ice",
+          "Bug",
+          "Steel",
+          "Fairy"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Piloswine",
+      "general_info": {
+        "name": "Piloswine",
+        "level": 80,
+        "elements": [
+          "Ice",
+          "Ground"
+        ],
+        "abilities": [
+          "Dig",
+          "Rock Smash",
+          "Ride",
+          "Headbutt"
+        ],
+        "boost": [
+          "Earth Stone",
+          3
+        ],
+        "materias": [],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Swinub precisa de Level 10",
+        "Piloswine precisa de Level 80"
+      ],
+      "moves": {
+        "PVP": [
+          {
+            "name": "Mud Sport",
+            "cd": "22s",
+            "type": "Ground",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage",
+              "Blind",
+              "Neverboost"
+            ]
+          },
+          {
+            "name": "Ice Fang",
+            "cd": "10s",
+            "type": "Ice",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Ice Wind",
+            "cd": "15s",
+            "type": "Ice",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Powder Snow",
+            "cd": "40s",
+            "type": "Ice",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Frost Breath",
+            "cd": "20s",
+            "type": "Ice",
+            "level": 82,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Stomping Tantrum",
+            "cd": "20s",
+            "type": "Ground",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Bulldoze",
+            "cd": "35s",
+            "type": "Ground",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Earthquake",
+            "cd": "60s",
+            "type": "Ground",
+            "level": 90,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Fissure",
+            "cd": "50s",
+            "type": "Ground",
+            "level": 90,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Amnesia",
+            "cd": "",
+            "type": "Psychic",
+            "level": "",
+            "details": [
+              "Passive",
+              "Buff"
+            ]
+          }
+        ],
+        "PVE": [
+          {
+            "name": "Mud Sport",
+            "cd": "22s",
+            "type": "Ground",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage",
+              "Blind",
+              "Neverboost"
+            ]
+          },
+          {
+            "name": "Ice Fang",
+            "cd": "10s",
+            "type": "Ice",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Ice Wind",
+            "cd": "15s",
+            "type": "Ice",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Powder Snow",
+            "cd": "40s",
+            "type": "Ice",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Frost Breath",
+            "cd": "20s",
+            "type": "Ice",
+            "level": 82,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Slow"
+            ]
+          },
+          {
+            "name": "Stomping Tantrum",
+            "cd": "20s",
+            "type": "Ground",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Bulldoze",
+            "cd": "35s",
+            "type": "Ground",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Earthquake",
+            "cd": "50s",
+            "type": "Ground",
+            "level": 90,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Fissure",
+            "cd": "50s",
+            "type": "Ground",
+            "level": 90,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Amnesia",
+            "cd": "",
+            "type": "Psychic",
+            "level": "",
+            "details": [
+              "Passive",
+              "Buff"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Efetivo": [
+          "Fire",
+          "Water",
+          "Grass",
+          "Fighting",
+          "Steel"
+        ],
+        "Normal": [
+          "Normal",
+          "Ice",
+          "Ground",
+          "Flying",
+          "Psychic",
+          "Bug",
+          "Rock",
+          "Ghost",
+          "Dragon",
+          "Dark",
+          "Crystal",
+          "Fairy"
+        ],
+        "Inefetivo": [
+          "Poison"
+        ],
+        "Nulo": [
+          "Electric"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Grumpig",
+      "general_info": {
+        "name": "Grumpig",
+        "level": 80,
+        "elements": [
+          "Psychic"
+        ],
+        "abilities": [
+          "Teleport",
+          "Light"
+        ],
+        "boost": [
+          "Enigma Stone",
+          3
+        ],
+        "materias": [],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Spoink precisa de Level 30",
+        "Grumpig precisa de Level 80"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Headbutt",
+            "cd": "15s",
+            "type": "Normal",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Shadowave",
+            "cd": "15s",
+            "type": "Dark",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Psy Pulse",
+            "cd": "10s",
+            "type": "Psychic",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Psychic",
+            "cd": "30s",
+            "type": "Psychic",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Teeter Dance",
+            "cd": "45s",
+            "type": "Normal",
+            "level": 85,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Confusion"
+            ]
+          },
+          {
+            "name": "Power Gem",
+            "cd": "20s",
+            "type": "Rock",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Bulldoze",
+            "cd": "40s",
+            "type": "Ground",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Rest",
+            "cd": "80s",
+            "type": "Normal",
+            "level": 86,
+            "details": [
+              "Self",
+              "Healing",
+              "Buff",
+              "Debuff"
+            ]
+          },
+          {
+            "name": "Miracle Eye",
+            "cd": "15s",
+            "type": "Psychic",
+            "level": 1000,
+            "details": [
+              "Self",
+              "Buff"
+            ]
+          },
+          {
+            "name": "Thick Fat",
+            "cd": "",
+            "type": "Rock",
+            "level": "",
+            "details": [
+              "Passive",
+              "Buff"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Muito Efetivo": [
+          "Bug",
+          "Ghost",
+          "Dark"
+        ],
+        "Normal": [
+          "Normal",
+          "Fire",
+          "Water",
+          "Grass",
+          "Electric",
+          "Ice",
+          "Poison",
+          "Ground",
+          "Flying",
+          "Rock",
+          "Dragon",
+          "Steel",
+          "Crystal",
+          "Fairy"
+        ],
+        "Muito Inefetivo": [
+          "Fighting",
+          "Psychic"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Muk",
+      "general_info": {
+        "name": "Muk",
+        "level": 80,
+        "elements": [
+          "Poison"
+        ],
+        "abilities": [
+          "Rock Smash"
+        ],
+        "boost": [
+          "Venom Stone",
+          3
+        ],
+        "materias": [
+          "Malefic Enhanced"
+        ],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Grimer precisa de Level 10",
+        "Muk precisa de Level 80"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Mud Shot",
+            "cd": "15s",
+            "type": "Ground",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage",
+              "Blind"
+            ]
+          },
+          {
+            "name": "Acid",
+            "cd": "10s",
+            "type": "Poison",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Sludge",
+            "cd": "25s",
+            "type": "Poison",
+            "level": 80,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Toxic",
+            "cd": "40s",
+            "type": "Poison",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Poison"
+            ]
+          },
+          {
+            "name": "Belch",
+            "cd": "40s",
+            "type": "Poison",
+            "level": 87,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Mortal Gas",
+            "cd": "50s",
+            "type": "Poison",
+            "level": 86,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Poison"
+            ]
+          },
+          {
+            "name": "Swamp Mist",
+            "cd": "40s",
+            "type": "Poison",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Slow",
+              "Nevermiss"
+            ]
+          },
+          {
+            "name": "Harden",
+            "cd": "40s",
+            "type": "Normal",
+            "level": 90,
+            "details": [
+              "Self",
+              "Buff"
+            ]
+          },
+          {
+            "name": "Poison Touch",
+            "cd": "40s",
+            "type": "Poison",
+            "level": 80,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Stun"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Muito Efetivo": [
+          "Ground",
+          "Psychic"
+        ],
+        "Normal": [
+          "Normal",
+          "Fire",
+          "Water",
+          "Electric",
+          "Ice",
+          "Flying",
+          "Rock",
+          "Ghost",
+          "Dragon",
+          "Steel",
+          "Dark",
+          "Crystal"
+        ],
+        "Muito Inefetivo": [
+          "Grass",
+          "Fighting",
+          "Poison",
+          "Bug",
+          "Fairy"
+        ]
+      }
+    },
+    {
+      "url": "https://wiki.pokexgames.com/index.php/Ursaring",
+      "general_info": {
+        "name": "Ursaring",
+        "level": 100,
+        "elements": [
+          "Normal"
+        ],
+        "abilities": [
+          "Rock Smash",
+          "Cut",
+          "Headbutt"
+        ],
+        "boost": [
+          "Heart Stone",
+          3
+        ],
+        "materias": [],
+        "evolution_stones": [],
+        "mega_stone": "",
+        "evolution_items": ""
+      },
+      "evolutions": [
+        "Teddiursa precisa de Level 30",
+        "Ursaring precisa de Level 100"
+      ],
+      "moves": {
+        "ALL": [
+          {
+            "name": "Scratch",
+            "cd": "10s",
+            "type": "Normal",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Slash",
+            "cd": "15s",
+            "type": "Normal",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Hammer Arm",
+            "cd": "25s",
+            "type": "Fighting",
+            "level": 100,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Stun"
+            ]
+          },
+          {
+            "name": "Fury Swipes",
+            "cd": "20s",
+            "type": "Normal",
+            "level": 100,
+            "details": [
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Body Slam",
+            "cd": "35s",
+            "type": "Normal",
+            "level": 104,
+            "details": [
+              "Target",
+              "Damage",
+              "Debuff"
+            ]
+          },
+          {
+            "name": "Thrash",
+            "cd": "35s",
+            "type": "Normal",
+            "level": 105,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Hyper Beam",
+            "cd": "50s",
+            "type": "Normal",
+            "level": 105,
+            "details": [
+              "Aoe",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Magnitude",
+            "cd": "60s",
+            "type": "Ground",
+            "level": 110,
+            "details": [
+              "Aoe",
+              "Damage",
+              "Paralyze",
+              "Debuff",
+              "Buff"
+            ]
+          },
+          {
+            "name": "Quick Feet",
+            "cd": "",
+            "type": "Normal",
+            "level": "",
+            "details": [
+              "Passive",
+              "Buff"
+            ]
+          }
+        ]
+      },
+      "effectiveness": {
+        "Muito Efetivo": [
+          "Fighting"
+        ],
+        "Normal": [
+          "Normal",
+          "Fire",
+          "Water",
+          "Grass",
+          "Electric",
+          "Ice",
+          "Poison",
+          "Ground",
+          "Flying",
+          "Psychic",
+          "Bug",
+          "Rock",
+          "Dragon",
+          "Steel",
+          "Dark",
+          "Crystal",
+          "Fairy"
+        ],
+        "Nulo": [
+          "Ghost"
         ]
       }
     }

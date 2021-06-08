@@ -1,7 +1,7 @@
 const ACTIONS = {
-  SCRAP_POKES_FROM_WIKI: { saveErrors: true, exec: false, saveJson: true },
+  SCRAP_POKES_FROM_WIKI: { saveErrors: false, exec: true, saveJson: true },
 
-  GET_POKES_TO_HUNT: { exec: false },
+  GET_POKES_TO_HUNT: { exec: false, saveJson: true },
   GET_EFFECTIVENESS_COUNT_PER_ELEMENT: {
     exec: false,
     saveJson: true,
@@ -12,26 +12,28 @@ const ACTIONS = {
 
   GET_FILTERED_MOVES: { exec: false, saveJson: true },
 
-  GET_POKEMON_DATA_STATS: { exec: true, saveJson: true },
+  GET_POKEMON_DATA_STATS: { exec: false, saveJson: true },
 };
 
 (async function () {
-  let pokemonData = require('./json/pokemons.json');
+  // LOAD JSONs
+  let pokemonData = require('./json/1-1_pokemons.json');
 
   if (!pokemonData || !Array.isArray(pokemonData)) {
-    throw new Error('`./json/pokemons.json` should have an array ([])!');
+    throw new Error('`./json/1-1_pokemons.json` should have an array ([])!');
   }
 
-  let smeargleBlockedData = require('./json/smeargleBlockedData.json');
+  let smeargleBlockedData = require('./json/5_smeargleBlockedData.json');
 
   if (!smeargleBlockedData || typeof smeargleBlockedData !== 'object') {
     throw new Error(
-      '`./json/smeargleBlockedData.json` should have an object ({})!',
+      '`./json/5_smeargleBlockedData.json` should have an object ({})!',
     );
   }
 
+  // ACTIONS
   if (ACTIONS.SCRAP_POKES_FROM_WIKI.exec) {
-    const { scrapWiki } = require('./lib/scrapPokesFromWiki.js');
+    const { scrapWiki } = require('./lib/1_scrapPokesFromWiki.js');
 
     pokemonData = await scrapWiki(
       pokemonData,
@@ -42,7 +44,7 @@ const ACTIONS = {
 
   let pokesToHunt = {};
   if (ACTIONS.GET_POKES_TO_HUNT.exec) {
-    const { getPokesToHunt } = require('./lib/getPokesToHunt.js');
+    const { getPokesToHunt } = require('./lib/2_getPokesToHunt.js');
 
     pokesToHunt = getPokesToHunt(
       pokemonData,
@@ -59,7 +61,7 @@ const ACTIONS = {
   ) {
     const {
       getEffectivenessCountPerElement,
-    } = require('./lib/getEffectivenessCountPerElement.js');
+    } = require('./lib/3_getEffectivenessCountPerElement.js');
 
     effectivenessCountPerElement = getEffectivenessCountPerElement(
       // pokemonData,
@@ -77,7 +79,7 @@ const ACTIONS = {
   ) {
     const {
       sortElementsByEffectiveness,
-    } = require('./lib/sortElementsByEffectiveness.js');
+    } = require('./lib/4_sortElementsByEffectiveness.js');
 
     sortedEffectiveness = sortElementsByEffectiveness(
       effectivenessCountPerElement,
@@ -91,7 +93,9 @@ const ACTIONS = {
     ACTIONS.SCRAP_SMEARGLE_BLOCKED_DATA_FROM_WIKI.exec &&
     Object.keys(smeargleBlockedData).length === 0
   ) {
-    const { scrapWiki } = require('./lib/scrapSmeargleBlockedDataFromWiki.js');
+    const {
+      scrapWiki,
+    } = require('./lib/5_scrapSmeargleBlockedDataFromWiki.js');
 
     smeargleBlockedData = await scrapWiki(
       pokemonData,
@@ -104,7 +108,7 @@ const ACTIONS = {
   let filteredMoves = {};
   if (ACTIONS.GET_FILTERED_MOVES.exec) {
     const { arrayDiff } = require('./utils/arrayDiff.js');
-    const { getFilteredMoves } = require('./lib/getFilteredMoves.js');
+    const { getFilteredMoves } = require('./lib/6_getFilteredMoves.js');
 
     const NOT_REAL_AOE_MOVES = [
       'Waterfall',
@@ -187,7 +191,7 @@ const ACTIONS = {
 
   let pokemonDataStats = {};
   if (ACTIONS.GET_POKEMON_DATA_STATS.exec) {
-    const { getPokemonDataStats } = require('./lib/getPokemonDataStats.js');
+    const { getPokemonDataStats } = require('./lib/7_getPokemonDataStats.js');
 
     pokemonDataStats = getPokemonDataStats(
       pokemonData,
