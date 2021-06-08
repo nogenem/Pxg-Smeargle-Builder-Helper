@@ -16742,12 +16742,13 @@
   ],
   "300-399": [
     {
-      "url": "https://wiki.pokexgames.com/index.php/Diglett",
+      "url": "https://wiki.pokexgames.com/index.php/Alolan_Diglett",
       "general_info": {
-        "name": "Diglett",
+        "name": "Alolan Diglett",
         "level": 10,
         "elements": [
-          "Ground"
+          "Ground",
+          "Steel"
         ],
         "abilities": [
           "Dig",
@@ -16756,26 +16757,28 @@
         ],
         "boost": [
           "Earth Stone",
-          20
+          10
         ],
         "materias": [
-          "Orebound"
+          "Orebound",
+          "Ironhard"
         ],
         "evolution_stones": [
-          "Earth Stone"
+          "Earth Stone",
+          "Indigo Shard"
         ],
         "mega_stone": "",
         "evolution_items": ""
       },
       "evolutions": [
         "Diglett precisa de Level 10",
-        "Dugtrio precisa de Level 40"
+        "Alolan Dugtrio precisa de Level 80"
       ],
       "moves": {
         "ALL": [
           {
             "name": "Sand Attack",
-            "cd": "20s",
+            "cd": "10s",
             "type": "Ground",
             "level": 10,
             "details": [
@@ -16784,9 +16787,9 @@
             ]
           },
           {
-            "name": "Slash",
-            "cd": "5s",
-            "type": "Normal",
+            "name": "Iron Head",
+            "cd": "15s",
+            "type": "Steel",
             "level": 10,
             "details": [
               "Target",
@@ -16794,33 +16797,32 @@
             ]
           },
           {
-            "name": "Mud Shot",
-            "cd": "15s",
-            "type": "Ground",
-            "level": 10,
-            "details": [
-              "Target",
-              "Damage",
-              "Blind"
-            ]
-          },
-          {
-            "name": "Mud Slap",
+            "name": "Metal Claw",
             "cd": "25s",
-            "type": "Ground",
-            "level": 12,
+            "type": "Steel",
+            "level": 17,
             "details": [
-              "Target",
+              "Aoe",
               "Damage",
-              "Blind",
-              "Slow"
+              "Buff"
             ]
           },
           {
-            "name": "Earth Power",
-            "cd": "45s",
-            "type": "Ground",
-            "level": 15,
+            "name": "Mirror Shot",
+            "cd": "30s",
+            "type": "Steel",
+            "level": 18,
+            "details": [
+              "Aoe",
+              "Target",
+              "Damage"
+            ]
+          },
+          {
+            "name": "Flash Cannon",
+            "cd": "50s",
+            "type": "Steel",
+            "level": 18,
             "details": [
               "Aoe",
               "Damage"
@@ -16830,31 +16832,33 @@
       },
       "effectiveness": {
         "Muito Efetivo": [
+          "Fire",
           "Water",
-          "Grass",
-          "Ice"
+          "Fighting",
+          "Ground"
         ],
         "Normal": [
+          "Grass",
+          "Ice",
+          "Ghost",
+          "Dark",
+          "Crystal"
+        ],
+        "Inefetivo": [
           "Normal",
-          "Fire",
-          "Fighting",
-          "Ground",
           "Flying",
           "Psychic",
           "Bug",
-          "Ghost",
           "Dragon",
           "Steel",
-          "Dark",
-          "Crystal",
           "Fairy"
         ],
         "Muito Inefetivo": [
-          "Poison",
           "Rock"
         ],
         "Nulo": [
-          "Electric"
+          "Electric",
+          "Poison"
         ]
       }
     },
