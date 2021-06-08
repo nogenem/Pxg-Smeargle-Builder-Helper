@@ -1,4 +1,42 @@
 {
+  "Summary": {
+    "150-299": {
+      "Malefic": 22,
+      "Orebound": 29,
+      "Volcanic": 14,
+      "Naturia": 22,
+      "Gardestrike": 14,
+      "Ironhard": 9,
+      "Wingeon": 15,
+      "Raibolt": 13,
+      "Psycraft": 15,
+      "Seavell": 30
+    },
+    "300-399": {
+      "Malefic": 4,
+      "Orebound": 12,
+      "Volcanic": 6,
+      "Naturia": 8,
+      "Gardestrike": 7,
+      "Ironhard": 3,
+      "Wingeon": 5,
+      "Raibolt": 3,
+      "Psycraft": 8,
+      "Seavell": 8
+    },
+    "400-600": {
+      "Malefic": 10,
+      "Orebound": 25,
+      "Volcanic": 12,
+      "Naturia": 15,
+      "Gardestrike": 16,
+      "Ironhard": 7,
+      "Wingeon": 10,
+      "Raibolt": 6,
+      "Psycraft": 11,
+      "Seavell": 18
+    }
+  },
   "150-299": {
     "Malefic": [
       "Girafarig",
