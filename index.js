@@ -5,6 +5,8 @@ const ACTIONS = {
 
   FILTER_POKES_TO_HUNT_PER_CLAN: { exec: false, saveJson: true },
 
+  FILTER_POKES_TO_HUNT_PER_GROUP_ELEMENTS: { exec: false, saveJson: true },
+
   GET_EFFECTIVENESS_COUNT_PER_ELEMENT: {
     exec: false,
     saveJson: true,
@@ -67,6 +69,23 @@ const ACTIONS = {
     pokesToHuntPerClan = getPokesToHuntPerClan(
       pokesToHunt,
       ACTIONS.FILTER_POKES_TO_HUNT_PER_CLAN.saveJson,
+    );
+
+    // console.log(pokesToHuntPerClan);
+  }
+
+  let pokesToHuntPerGroupOfElements = {};
+  if (ACTIONS.FILTER_POKES_TO_HUNT_PER_GROUP_ELEMENTS.exec) {
+    const {
+      getPokesToHuntPerGroupOfElements,
+    } = require('./lib/9_getPokesToHuntPerGroupOfElements.js');
+
+    const ELEMENTS = ['Flying', 'Ice', 'Fire', 'Water'];
+    // const ELEMENTS = ['Electric', 'Ice', 'Fire', 'Earth'];
+    pokesToHuntPerGroupOfElements = getPokesToHuntPerGroupOfElements(
+      pokesToHunt,
+      ELEMENTS,
+      ACTIONS.FILTER_POKES_TO_HUNT_PER_GROUP_ELEMENTS.saveJson,
     );
 
     // console.log(pokesToHuntPerClan);
